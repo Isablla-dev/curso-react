@@ -1,0 +1,5 @@
+Página tendencias frontend
+https://www.awwwards.com/
+
+Comando creación de proyecto con vite
+npm create vite@latest my-react-app -- --template react
